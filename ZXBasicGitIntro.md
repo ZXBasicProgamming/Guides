@@ -1,13 +1,21 @@
-# ZXBasic git - the really quick guide
-blah blah blah why use github  - collaboration and stuff
-Intro by David
+# ZXBasic Programming git
 
+Welcome to the ZX Basic Programming Facebook group's GitHub!
+
+This is a page dedicated to programming in Basic on the ZX Sprectrum
+
+We decided to utilise GitHub to help store code, examples and tecniques that get posted to the group as Facebook's handling of files and searching can be quite time consuming. It was also suggested that we have a repo where we can work on collaborations and doing so would mean we would need an SVN to handle multiple people working on the same project. GitHub allows us to keep historical versions after changes have been made to any file. 
+
+Source code can be downloaded and used in tools such as Basinc, you may also find tap/sna versions of listing that can used in an emulator. Code stored here has been written by various members of the group and should be credited where possible. 
+
+If you have not down already please come and join our group https://www.facebook.com/groups/ZXBasic
+Thanks goes to Thomas Hackerman who created the GitHub hom for us. 
 
 ## Getting started
-The ZXBasic repository is located here: https://github.com/thomasheckmann/ZXBasic/
+The ZXBasic repository is located here: https://github.com/ZXBasicProgamming
 
 ### Browse code
-If you just want to browse the repository and have a peek of whats going on, you can do fine with the web interface on [Github](https://github.com/thomasheckmann/ZXBasic/).
+If you just want to browse the repository and have a peek of whats going on, you can do fine with the web interface on [Github](https://github.com/ZXBasicProgamming).
 
 ### Participate and submit code
 If you want to participate, contribute code or just play around with the code for yourself, you will need a **git client** on your local machine and a github account (it's free as in free beer).
@@ -27,7 +35,7 @@ To create a working local copy where all your local work will be maintained, clo
 
 ### Command line 'git'
 ```
-git clone https://github.com/thomasheckmann/ZXBasic.git
+git clone https://github.com/ZXBasicProgamming.git
 ```
 You should now have a local directory *ZXBasic* with all the code from the repository. *NOTE* This is your own local copy, you can do all kind of changes without affecting the general repository.
 
