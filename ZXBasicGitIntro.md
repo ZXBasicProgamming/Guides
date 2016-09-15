@@ -9,7 +9,8 @@ We decided to utilise GitHub to help store code, examples and tecniques that get
 Source code can be downloaded and used in tools such as Basinc, you may also find tap/sna versions of listing that can used in an emulator. Code stored here has been written by various members of the group and should be credited where possible. 
 
 If you have not down already please come and join our group https://www.facebook.com/groups/ZXBasic
-Thanks goes to Thomas Hackerman who created the GitHub hom for us. 
+
+Thanks goes to Thomas Heckmann who created the GitHub hom for us. 
 
 ## Getting started
 The ZXBasic repository is located here: https://github.com/ZXBasicProgamming
