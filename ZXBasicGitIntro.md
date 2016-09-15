@@ -13,7 +13,7 @@ If you have not down already please come and join our group https://www.facebook
 Thanks goes to Thomas Heckmann who created the GitHub home for us. 
 
 ## Getting started
-The ZXBasic repository is located here: https://github.com/ZXBasicProgamming
+The ZXBasic repositories are located here: https://github.com/ZXBasicProgamming
 
 ### Browse code
 If you just want to browse the repository and have a peek of whats going on, you can do fine with the web interface on [Github](https://github.com/ZXBasicProgamming).
@@ -35,10 +35,11 @@ The following options are recommended:
 To create a working local copy where all your local work will be maintained, clone the repository:
 
 ### Command line 'git'
+If you want to clone the 'Examples' repository, use the following command: 
 ```
-git clone https://github.com/ZXBasicProgamming.git
+git clone https://github.com/ZXBasicProgamming/Examples.git
 ```
-You should now have a local directory *ZXBasic* with all the code from the repository. *NOTE* This is your own local copy, you can do all kind of changes without affecting the general repository.
+You should now have a local directory *Examples* with all the code from the repository. *NOTE* This is your own local copy, you can do all kind of changes without affecting the general repository.
 
 ### GitHub Desktop
 With the GitHub Desktop it is only possible to clone repositories associated to your account. If you don't have access to the ZXBasic repository from your account, you first need to fork the ZXBasic repository into your own repository.
