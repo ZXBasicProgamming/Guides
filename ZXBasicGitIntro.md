@@ -10,7 +10,7 @@ Source code can be downloaded and used in tools such as Basinc, you may also fin
 
 If you have not down already please come and join our group https://www.facebook.com/groups/ZXBasic
 
-Thanks goes to Thomas Heckmann who created the GitHub hom for us. 
+Thanks goes to Thomas Heckmann who created the GitHub home for us. 
 
 ## Getting started
 The ZXBasic repository is located here: https://github.com/ZXBasicProgamming
