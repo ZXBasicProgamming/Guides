@@ -45,10 +45,46 @@ You should now have a local directory *Examples* with all the code from the repo
 With the GitHub Desktop it is only possible to clone repositories associated to your account. If you don't have access to the ZXBasic repository from your account, you first need to fork the ZXBasic repository into your own repository.
 **TBD**
 
-## Add & Commit - local
-After you have fooled around with the code, made changes, added new files etc. and would like to submit your code to the repository, remember to add & commit changes.
-
 ## Contribute to ZXBasic repository
-Pull requests
-**TBD**
+Say you want to contribute with a new fine example to the repository.
+
+* go to the Example repository on github - you will find it at https://github.com/ZXBasicProgamming/Examples
+* Click the “Fork” button at the top right.
+* You’ll now have your own copy of that repository in your github account.
+* For command line - open a command line or shell and type
+```
+git clone https://github.com/<username>/Examples.git
+```
+where **username** is your github username.
+* You’ll now have a local copy of your version of the Example repository.
+* Change into that project directory (Example):
+```
+cd Example
+```
+* Add a connection to the original ZXBasic repository.
+```
+git remote add ZXBasicProgamming https://github.com/ZXBasicProgamming/Examples
+```
+* Add a folder for your example e.g.
+```
+mkdir AwesomeExample
+```
+* Create files for your example in the folder just created.
+* git add and git commit those changes
+```
+git add AwesomeExample/*
+git commit -m "Awesome example showing ZX Spectrum version of one of the most popular programs"
+```
+* git push them back to github. These will go to your version of the repository.
+```
+git push
+```
+* Go to your version of the repository on github, and you should see your changes.
+* Click the “Pull Request” button at the top.
+* Click the “Pull Request” button at the top.
+* Note that the *ZXBasicProgramming Example* repository will be on the left and your repository will be on the right.
+* Click the green button “Create pull request”. Give a succinct and informative title, in the comment field give a short explanation of the changes and click the green button “Create pull request” again.
+
+Viola - your contribution are ready for review by the admins.
+
 
